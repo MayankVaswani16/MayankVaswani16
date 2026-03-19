@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m an Engineering student currently in my 3rd year of B.Tech. I enjoy learning new technologies and exploring different domains in software development.<br>I have hands-on experience in backend development using Flask and a growing interest in Artificial Intelligence and Machine Learning. While I’m still in the learning phase of AI/ML, I actively explore concepts, build small projects, and continuously work on strengthening my understanding.<br>I believe in learning by doing, improving step by step, and staying curious. This GitHub is a space where I share my projects, experiments, and progress as I grow as an engineer
+Hi there! I’m an Engineering student currently in my 3rd year of B.Tech. I enjoy learning new technologies and exploring different domains in software development.<br>I have hands-on experience in backend development using Flask/Springboot and a growing interest in Artificial Intelligence and Machine Learning. While I’m still in the learning phase of AI/ML, I actively explore concepts, build small projects, and continuously work on strengthening my understanding.<br>I believe in learning by doing, improving step by step, and staying curious. This GitHub is a space where I share my projects, experiments, and progress as I grow as an engineer
 
 
 ## 🌐 Socials:
